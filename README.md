@@ -7,6 +7,9 @@ I'm a passionate **Software Engineer & Backend Developer** who loves building sc
 [![GitHub Badge](https://img.shields.io/badge/GitHub-ronakrafaliya-black?logo=github)](https://github.com/ronakrafaliya)
 [![Email Badge](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ronakrafaliya14@gmail.com)
 
+
+![](https://komarev.com/ghpvc/?username=RonakRafaliya&style=for-the-badge&color=orange)
+
 ---
 
 ## 🚀 About Me
