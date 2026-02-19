@@ -34,7 +34,7 @@ I'm a passionate **Software Engineer & Backend Developer** who loves building sc
 - MVC Architecture
 
 ### 🎨 **Frontend Tools**
-- Vue.js, Inertia.js, Alpine.js, jQuery, React.js,
+- Vue.js, Inertia.js, Alpine.js, jQuery, React.js
 - HTML5, CSS3, Tailwind CSS
 
 ### 🗄️ **Databases**
